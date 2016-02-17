@@ -1,0 +1,2 @@
+# powershell-azure
+azure-powershell
